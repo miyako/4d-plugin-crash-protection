@@ -23,4 +23,4 @@ value:=NSFunctionBarAPIEnabled
 
 param|type|description
 ------------|------|----
-value|TEXT|``YES`` or ``NO)``
+value|TEXT|``YES`` or ``NO``
