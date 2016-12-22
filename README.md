@@ -1,5 +1,4 @@
 # 4d-plugin-crash-protection
-Sets the defaults key NSFunctionBarAPIEnabled to NO
 
 Automatically sets the ``NSFunctionBarAPIEnabled`` key to ``NO`` on startup. 
 
